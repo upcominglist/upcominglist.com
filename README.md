@@ -1,2 +1,2 @@
-# upcominglist.com
-Public Database for the upcominglist.com website
+# upcominglist.com main repository
+Public Database for the https://upcominglist.com website
